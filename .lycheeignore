@@ -1,0 +1,6 @@
+# Login-gated or internal-network resources: lychee can't evaluate them from a public runner
+https://myknowledgehub.vumc.org/.*
+https://.*ckmproxy.vumc.org/.*
+https://vimbook.vumc.org/.*
+https://medsites.vumc.org/.*
+https://illiad.library.vanderbilt.edu/.*
