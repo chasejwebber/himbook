@@ -20,8 +20,8 @@ The first-click references for a clinical question on the wards.
 - 🔒 [UpToDate](https://researchguides.library.vanderbilt.edu/uptodate) — includes UpToDate Expert AI; use the *Hospital Medicine* table of contents
 - 🔒 [ClinicalKey](https://myknowledgehub.vumc.org/ckmres?rid=35851) — Elsevier texts, Clinical Overviews, Procedures Consult
 - 🔒 [BMJ Best Practice](https://myknowledgehub.vumc.org/ckmres?rid=5913) — good second opinion when UpToDate is equivocal
-- 🔒 AccessMedicine — Harrison's, CMDT, Diagnosaurus `[rid needed from CKM]`
-- 🔒 VisualDx `[rid needed from CKM]`
+- 🔒 AccessMedicine — Harrison's, CMDT, Diagnosaurus 
+- 🔒 VisualDx 
 - 🔓 [MedlinePlus](https://medlineplus.gov/) — plain-language explanations to use with patients
 - 🔓 [DermNet](https://dermnetnz.org/) — rash lookup
 - 🔓 [Life in the Fast Lane ECG Library](https://litfl.com/ecg-library/)
