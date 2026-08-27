@@ -83,11 +83,11 @@ Society guidelines that hospitalists reference most often.
 - 🔒 Harrison's Principles of Internal Medicine (AccessMedicine) `[rid needed]`
 - 🔒 Principles and Practice of Hospital Medicine, McKean et al. (AccessMedicine) `[rid needed]`
 - 🔒 [Washington Manual of Medical Therapeutics](https://myknowledgehub.vumc.org/ckmres?rid=35851) `[confirm platform; Ovid vs ClinicalKey]`
-- 🔒 [Marino's The ICU Book](https://myknowledgehub.vumc.org/ckmres?rid=35851) `[confirm platform]`
+- 🔒 [Merino's The ICU Book]
 - 🔒 [Ferri's Clinical Advisor](https://myknowledgehub.vumc.org/ckmres?rid=35851) — ClinicalKey
 - 🔒 [Conn's Current Therapy](https://myknowledgehub.vumc.org/ckmres?rid=35851) — ClinicalKey
 - 🔒 [Mandell, Douglas & Bennett](https://myknowledgehub.vumc.org/ckmres?rid=35851) — ClinicalKey
-- 🔓 Teaching Inpatient Medicine, Houchens/Harrod/Saint — for attendings; 🔒 ebook `[rid needed]`
+- 🔓 Teaching Inpatient Medicine, Houchens/Harrod/Saint 
 
 ## 7. Procedures & POCUS
 
@@ -113,7 +113,7 @@ Society guidelines that hospitalists reference most often.
 - 🔓 [ClinicalTrials.gov](https://clinicaltrials.gov/)
 - 🔓 [OpenEvidence](https://www.openevidence.com/) — AI literature synthesis; free with NPI; verify citations before acting *(see [[ai|AI at the bedside →]] for how to use these well)*
 
-## 10. Keep learning
+## 10. Lifelong learning
 
 - 🔓 [Core IM podcast](https://www.coreimpodcast.com/)
 - 🔓 [The Curbsiders](https://thecurbsiders.com/)
@@ -122,8 +122,6 @@ Society guidelines that hospitalists reference most often.
 - 🔓 [[whats-new|What's new →]]
 
 ## 11. The VUMC shelf
-
-For those inside the wall. Everything here requires VUMC credentials or network.
 
 - 🔒 [Eskind Biomedical Library — Clinical Resources guide](https://researchguides.library.vanderbilt.edu/healthsciences/vumcresources) — the canonical licensed list
 - 🔒 [CKM Knowledge Hub](https://myknowledgehub.vumc.org/) — full A–Z of VUMC-licensed resources
