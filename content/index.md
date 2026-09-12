@@ -83,7 +83,7 @@ Society guidelines that hospitalists reference most often.
 - 🔒 Harrison's Principles of Internal Medicine (AccessMedicine) `[rid needed]`
 - 🔒 Principles and Practice of Hospital Medicine, McKean et al. (AccessMedicine) `[rid needed]`
 - 🔒 [Washington Manual of Medical Therapeutics](https://myknowledgehub.vumc.org/ckmres?rid=35851) `[confirm platform; Ovid vs ClinicalKey]`
-- 🔒 [Merino's The ICU Book]
+- 🔒 [Marino's The ICU Book]
 - 🔒 [Ferri's Clinical Advisor](https://myknowledgehub.vumc.org/ckmres?rid=35851) — ClinicalKey
 - 🔒 [Conn's Current Therapy](https://myknowledgehub.vumc.org/ckmres?rid=35851) — ClinicalKey
 - 🔒 [Mandell, Douglas & Bennett](https://myknowledgehub.vumc.org/ckmres?rid=35851) — ClinicalKey
@@ -94,7 +94,6 @@ Society guidelines that hospitalists reference most often.
 - 🔒 Procedures Consult (ClinicalKey) — step-by-step video
 - 🔒 NEJM Videos in Clinical Medicine `[VUMC NEJM access via EBL]`
 - 🔓 [The POCUS Atlas](https://www.thepocusatlas.com/)
-- 🔓 [5 Minute Sono](https://5minsono.com/)
 - 🏥 VUMC procedure service / POCUS credentialing `[internal link]`
 
 ## 8. Communication, transitions & systems

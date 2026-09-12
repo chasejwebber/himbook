@@ -7,7 +7,7 @@ description: Who edits HIMbook, how resources are chosen, license, and disclaime
 
 ## Editor
 
-[Chase J. Webber, DO, FACP](https://chasejwebber.com) — Associate Professor of Clinical Medicine and Biomedical Informatics, Vanderbilt University Medical Center; academic hospitalist; director of the "How Doctors Think" Integrated Science Course.
+[Chase J. Webber, DO, FACP](https://www.linkedin.com/in/chase-webber-do-facp-892aa93b8) — Associate Professor of Clinical Medicine and Biomedical Informatics, Vanderbilt University Medical Center; academic hospitalist; director of the "How Doctors Think" Integrated Science Course.
 
 ## How resources are chosen
 
@@ -27,4 +27,4 @@ Original text on this site is licensed [CC BY-NC-SA 4.0](https://creativecommons
 
 ## Disclaimer
 
-For education only. Not medical advice. Verify at the point of care.
+For education and educational decision support only. Not medical advice nor a substitute for clinical judgement. Verify at the point of care.
